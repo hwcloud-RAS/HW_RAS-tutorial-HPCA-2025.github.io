@@ -53,11 +53,14 @@ notes is suggested."
 
   organizers2:
     title: Competition Committee
-    body: "D
-    
+    body: "D\\
     E
     
-    F"
+    F
+    
+    \\
+    
+    G"
     section: organizers2
 
 #  services:
