@@ -44,23 +44,26 @@ notes is suggested."
 
   organizers1:
     title: Organizing Committee
-    body: "**Qiao Yu** Technical University of Berlin, Germany
+    body: "- **Qiao Yu** Technical University of Berlin, Germany
     
-    **Min Zhou** Huawei Technologies Co., Ltd, China
+    - **Min Zhou** Huawei Technologies Co., Ltd, China
     
-    C"
+    - **Zhirong Shen** Xiamen University, Xiamen, China
+    
+    - **Jorge Cardoso** Huawei Cloud in Munich, Germany"
     section: organizers1
 
   organizers2:
     title: Competition Committee
-    body: "D\\
-    E
+    body: "- **Jialiang Yu** Huawei Technologies Co., Ltd, China
     
-    F
+    - **Wengui Zhang** Huawei Technologies Co., Ltd, China
     
-    \\
+    - **Hongyi Xie** Huawei Technologies Co., Ltd, China
     
-    G"
+    - **Zhenli Sheng** Huawei Technologies Co., Ltd, China
+    
+    - **Odej Kao** Technical University of Berlin, Germany"
     section: organizers2
 
 #  services:
