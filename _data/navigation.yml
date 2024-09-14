@@ -17,14 +17,8 @@ en: &DEFAULT_EN
       section: target
     - title: "Organizers"
       section: organizers
-    - title: "Timeline"
-      section: timeline
-    - title: "Team"
-      section: team
-    - title: "Contact"
-      section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "Agenda"
+      section: agenda
 en-US:
   <<: *DEFAULT_EN
 en-CA:
