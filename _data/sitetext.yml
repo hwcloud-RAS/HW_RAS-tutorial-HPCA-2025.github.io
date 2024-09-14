@@ -19,25 +19,25 @@ en: &DEFAULT_EN
   overview:
     title: Tutorial Overview
     body: "As cloud services become increasingly integral to modern computing, the reliability of underlying hardware components is critical to maintaining service continuity and performance. This tutorial delves into the advanced methodologies for predicting hardware failures to cloud service reliability.\\
-  We begin with an overview of hardware failures in data centers, followed by machine learning-based failure prediction methods designed for different hardware components. Key topics include hardware metrics for predictive analysis, feature engineering, algorithm selection, evaluation, and production deployment.\\
-  In addition to knowledge share, the tutorial offers a hands-on Memory Failure Prediction competition, where participants apply their techniques to real-world problems.\\
+  We begin with an overview of hardware failures in data centers, followed by machine learning-based failure prediction methods designed for different hardware components. Key topics include hardware metrics for predictive analysis, feature engineering, algorithm selection, evaluation, and production deployment.\n
+  In addition to **knowledge share**, the tutorial offers a hands-on *Memory* Failure Prediction competition, where participants apply their techniques to real-world problems.\\
   This tutorial is beneficial for researchers and engineers from both academia and industry, providing them with useful tools and necessary knowledge to enhance hardware resilience and cloud service reliability."
     section: overview
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+#  services:
+#    title: "Services"
+#    text: "Lorem ipsum"
+#    section: services
+#    list:
+#      - title: "E-Commerce"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+#      - title: "Responsive Design"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#        icon: fas fa-laptop
+#      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+#        desc: "Your description here, full **Markdown** support"
+#        icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
