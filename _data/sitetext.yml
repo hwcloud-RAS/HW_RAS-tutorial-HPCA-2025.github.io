@@ -126,7 +126,8 @@ notes is suggested."
 
   agenda:
     title: Agenda
-    body: "### Introduction (Min Zhou, 20 min)
+    body: "
+    ### Introduction (Min Zhou, 20 min)
     
     - Overview of hardware failures in datacenters
     
