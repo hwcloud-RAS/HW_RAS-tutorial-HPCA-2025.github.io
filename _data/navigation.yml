@@ -15,8 +15,8 @@ en: &DEFAULT_EN
       section: overview
     - title: "Target"
       section: target
-    - title: "About"
-      section: about
+    - title: "Organizers"
+      section: organizers
     - title: "Timeline"
       section: timeline
     - title: "Team"

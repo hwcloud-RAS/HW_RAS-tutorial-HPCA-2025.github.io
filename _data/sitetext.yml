@@ -42,6 +42,24 @@ special technical equipment is needed and some way of taking
 notes is suggested."
     section: target
 
+  organizers1:
+    title: Organizing Committee
+    body: "A
+    
+    B
+    
+    C"
+    section: organizers1
+
+  organizers2:
+    title: Competition Committee
+    body: "D
+    
+    E
+    
+    F"
+    section: organizers2
+
 #  services:
 #    title: "Services"
 #    text: "Lorem ipsum"
