@@ -18,10 +18,15 @@ en: &DEFAULT_EN
 
   overview:
     title: Tutorial Overview
-    body: "As cloud services become increasingly integral to modern computing, the reliability of underlying hardware components is critical to maintaining service continuity and performance. This tutorial delves into the advanced methodologies for predicting hardware failures to cloud service reliability.\\
-  We begin with an overview of hardware failures in data centers, followed by machine learning-based failure prediction methods designed for different hardware components. Key topics include hardware metrics for predictive analysis, feature engineering, algorithm selection, evaluation, and production deployment.\n
-  In addition to **knowledge share**, the tutorial offers a hands-on *Memory* Failure Prediction competition, where participants apply their techniques to real-world problems.\\
-  This tutorial is beneficial for researchers and engineers from both academia and industry, providing them with useful tools and necessary knowledge to enhance hardware resilience and cloud service reliability."
+    body: "In ever-growing datacenters, millions of servers operate
+together to meet the rising demand for cloud computing,
+big data storage, and AI computing tasks. With numerous
+tasks including resource-intensive AI computations running
+on these servers, hardware failures significantly impact the
+servers’ Reliability, Availability and Serviceability (RAS).
+ In this tutorial, we explore cutting-edge methodologies for
+predicting hardware failures in cloud environments to ensure
+uninterrupted service continuity and optimal performance."
     section: overview
 
 #  services:
