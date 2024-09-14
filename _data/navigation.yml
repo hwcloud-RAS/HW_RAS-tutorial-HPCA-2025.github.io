@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "Overview"
       section: overview
-    - title: "Portfolio"
-      section: portfolio
+    - title: "Target"
+      section: target
     - title: "About"
       section: about
     - title: "Timeline"
