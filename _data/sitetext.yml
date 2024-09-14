@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: HPCA Tutorial
+    text: Hardware Failure Prediction for Cloud Service Reliability
     button: Tell Me More
     buttonlink: "#services"
 
