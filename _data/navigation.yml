@@ -19,6 +19,8 @@ en: &DEFAULT_EN
       section: agenda
     - title: "Organizers"
       section: organizers1
+    - title: "Competition"
+      section: competition
 en-US:
   <<: *DEFAULT_EN
 en-CA:
