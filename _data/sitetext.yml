@@ -179,9 +179,9 @@ notes is suggested."
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "huawei"
-        url: https://www.huawei.com/en/
-        logo: assets/img/huawei.png
+#      - title: "huawei"
+#        url: https://www.huawei.com/en/
+#        logo: assets/img/huawei.png
       - title: "huawei cloud"
         url: https://www.huaweicloud.com/lab/reliability/home.html
         logo: assets/img/huawei_cloud.png
