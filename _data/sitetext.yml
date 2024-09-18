@@ -252,7 +252,7 @@ notes is suggested."
       - url: https://github.com
         icon: "fab fa-github"
       - url: https://www.codabench.org/competitions/3586/?secret_key=7bb5caa7-e581-42e6-a19b-366ca5f9ae7b
-        icon: "fab fa-award"
+        icon: "fas fa-flag-checkered"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
