@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     - title: "Target"
       section: target
     - title: "Organizers"
-      section: organizers
+      section: organizers1
     - title: "Agenda"
       section: agenda
 en-US:
