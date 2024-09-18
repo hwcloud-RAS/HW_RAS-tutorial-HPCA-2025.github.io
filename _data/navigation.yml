@@ -15,10 +15,10 @@ en: &DEFAULT_EN
       section: overview
     - title: "Target"
       section: target
-    - title: "Organizers"
-      section: organizers1
     - title: "Agenda"
       section: agenda
+    - title: "Organizers"
+      section: organizers1
 en-US:
   <<: *DEFAULT_EN
 en-CA:
