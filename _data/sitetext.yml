@@ -182,6 +182,9 @@ notes is suggested."
       - title: "huawei"
         url: https://www.huawei.com/en/
         logo: assets/img/huawei.png
+      - title: "huawei cloud"
+        url: https://www.huaweicloud.com/lab/reliability/home.html
+        logo: assets/img/huawei_cloud.png
 #  team:
 #    title: "OUR AMAZING TEAM"
 #    text: "Lorem ipsum dolor sit amet consectetur."
