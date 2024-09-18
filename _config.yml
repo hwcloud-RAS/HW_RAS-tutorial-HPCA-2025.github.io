@@ -18,9 +18,9 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Hw_RAS 2025
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
-author     : Your Name
+email      : zhoumin27@huawei.com #this is also the email contact forms will go to
+description: "Hw_RAS 2025"
+author     : Huawei
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
