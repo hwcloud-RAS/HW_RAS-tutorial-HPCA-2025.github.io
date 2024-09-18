@@ -185,6 +185,9 @@ notes is suggested."
       - title: "huawei cloud"
         url: https://www.huaweicloud.com/lab/reliability/home.html
         logo: assets/img/huawei_cloud.png
+      - title: "mfp competition"
+        url: https://www.codabench.org/competitions/3586/?secret_key=7bb5caa7-e581-42e6-a19b-366ca5f9ae7b
+        logo: assets/img/mfp_logo.png
 #  team:
 #    title: "OUR AMAZING TEAM"
 #    text: "Lorem ipsum dolor sit amet consectetur."
