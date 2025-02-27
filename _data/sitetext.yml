@@ -37,9 +37,8 @@ are expected to have a basic understanding of computer
 architecture, hardware errors and machine learning. If not, we
 also provide intuitive descriptions for interested participants
 during the tutorial. Anyone excited about ML for system is
-welcome. The expected audience size is around 50 to 150. No
-special technical equipment is needed and some way of taking
-notes is suggested."
+welcome. No special equipment is needed, it is strongly recommended to bring a laptop for participating in 
+the Hands-on competition and taking notes."
     section: target
 
 
@@ -119,7 +118,7 @@ notes is suggested."
      and the fresh challenges presented in both stages.
      
     More details of the competition can be found at 
-    <a href='https://https://www.codabench.org/competitions/3586/' target='_blank'>
+    <a href='https://www.codabench.org/competitions/3586/' target='_blank'>
     Memory Failure Prediction Competition</a>."
     section: competition
 
@@ -258,7 +257,7 @@ notes is suggested."
 #        icon: "fab fa-linkedin-in"
       - url: https://github.com
         icon: "fab fa-github"
-      - url: https://www.codabench.org/competitions/3586/
+      - url: https://codabench.org/competitions/3586/
         icon: "fas fa-flag-checkered"
 en-US:
   <<: *DEFAULT_EN
