@@ -45,15 +45,13 @@ notes is suggested."
 
   agenda:
     title: Agenda
-    body: "### Introduction (Min Zhou, 20 min)
+    body: "### Introduction (Min Zhou, 13:10 - 13:30)
 
     - Overview of hardware failures in datacenters
 
     – Motivation
 
-    – Business application
-
-    ### Memory Failure Prediction (Qiao Yu, 45 min)
+    ### Memory Failure Prediction (Qiao Yu, 13:30 – 14:00)
 
     - Background of memory failure
 
@@ -61,7 +59,7 @@ notes is suggested."
 
     – Conclusion and future work
 
-    ### HBM Failure Prediction and Reliable Storage System  (Zhirong Shen, 45 min)
+    ### HBM Failure Prediction and Reliable Storage System  (Zhirong Shen, 14:00 – 14:30)
 
     – Introduce analysis of HBM errors in the field
 
@@ -69,21 +67,15 @@ notes is suggested."
 
     – Introduce some techniques for reliable storage
 
-    ### AIOps for HDD and Optical Failure Prediction (45 min)
-
-    – Background. Hard drives and optical interconnects are typical hardware found datacenters.
-
-    – Approach. Use classical and deep neural networks to predict failures.
-
-    – Conclusion. SMART indicators and error rates are suitable predictors for failures.
-
-    ### Competition Highlights (Min Zhou and Invited Participants, 60 min)
+    ### Competition Introduction (Min Zhou, 14:30 – 15:00)
 
     – Overview of the competition
 
-    – Participant solutions
-
     – Open discussion and wrap-up
+    
+    ### Coffee Break (15:00 – 15:30)
+    
+    ### Hands-on Online Competition (15:30 - 17:00)
     "
     section: agenda
 
@@ -127,7 +119,7 @@ notes is suggested."
      and the fresh challenges presented in both stages.
      
     More details of the competition can be found at 
-    <a href='https://www.codabench.org/competitions/3586/?secret_key=7bb5caa7-e581-42e6-a19b-366ca5f9ae7b' target='_blank'>
+    <a href='https://https://www.codabench.org/competitions/3586/' target='_blank'>
     Memory Failure Prediction Competition</a>."
     section: competition
 
@@ -201,7 +193,7 @@ notes is suggested."
         url: https://www.huaweicloud.com/lab/reliability/home.html
         logo: assets/img/huawei_cloud.png
 #      - title: "mfp competition"
-#        url: https://www.codabench.org/competitions/3586/?secret_key=7bb5caa7-e581-42e6-a19b-366ca5f9ae7b
+#        url: https://www.codabench.org/competitions/3586/
 #        logo: assets/img/mfp_logo.png
 #  team:
 #    title: "OUR AMAZING TEAM"
@@ -266,7 +258,7 @@ notes is suggested."
 #        icon: "fab fa-linkedin-in"
       - url: https://github.com
         icon: "fab fa-github"
-      - url: https://www.codabench.org/competitions/3586/?secret_key=7bb5caa7-e581-42e6-a19b-366ca5f9ae7b
+      - url: https://www.codabench.org/competitions/3586/
         icon: "fas fa-flag-checkered"
 en-US:
   <<: *DEFAULT_EN
